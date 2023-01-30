@@ -3,6 +3,7 @@
 经历为期5个月的想法，还是坚持动工，开始软件工程设计，开发版本为v0.1,和[heyaspirin](https://github.com/heyaspirin)一起开发。
 这个项目想的是一直做开源下去。也是为了学习golang的分布式架构，微服务。
 
+主要思想上是利用尽可能少的技术栈实现功能。
 
 约定同步动作标志
 ```bash
@@ -18,6 +19,7 @@ git commit -m "DEL| [XXXX.XX]"
 多文件更新增加：
 git commit -m "BIG| [XXXX.XX]"
 ```
+
 
 2023-01-30 
 + v0.1.0 先有页面框架
