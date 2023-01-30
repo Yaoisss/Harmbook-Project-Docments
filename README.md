@@ -7,18 +7,19 @@
 约定同步动作标志
 ```bash
 新文件增加：
-git commit -m "ADD| XXXX.XX"
+git commit -m "ADD| [XXXX.XX]"
 
 旧文件更新：
-git commit -m "UPDATE| XXXX.XX"
+git commit -m "UPDATE| [XXXX.XX]"
 
 删除动作：
-git commit -m "DEL| XXXX.XX"
+git commit -m "DEL| [XXXX.XX]"
 
 多文件更新增加：
-git commit -m "BIG| xxxxxxxx"
+git commit -m "BIG| [XXXX.XX]"
 ```
 
+2023-01-30 
 + v0.1.0 先有页面框架
 + v0.1.1 添加服务模块
 + v0.1.2 添加分布式模块
